@@ -1,0 +1,2 @@
+https://www.npmjs.com/package/react-native-animated-nav-tab-bar
+https://dev.to/easybuoy/combining-stack-tab-drawer-navigations-in-react-native-with-react-navigation-5-da

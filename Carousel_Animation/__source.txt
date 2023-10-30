@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=yV-2HRzNX9o
+Tut doesnt work for android when followed.
+Copy paste the code from github and it will work
+keep in mind that the background transition  is slow and clunky
+
+
+https://github.com/catalinmiron/react-native-movie-2.0-carousel/blob/master/App.js
